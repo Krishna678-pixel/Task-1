@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    
-    <title>Interactive Navigation Menu</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    }
-  <nav class="navbar">
+    <body
+        {
+        h1{background-color:red;
+        }
+        <nav class="navbar">
         <ul class="nav-menu">
             <li class="nav-item"><a href="#home" class="nav-link">Home</a></li>
             <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
